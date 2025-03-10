@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogabekmengn1yozov&label=Profile%20views&color=0e75b6&style=flat" alt="ogabekmengn1yozov" /> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **I am happy to help;**
 
